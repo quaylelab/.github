@@ -4,7 +4,7 @@ The Quayle Lab is dedicated to cutting-edge research in **cancer bioinformatics*
 
 ## 🧬 About Us
 
-Our lab combines expertise in **bioinformatics, genomics, data science**, and **machine learning** to analyse large-scale cancer datasets. We are committed to contributing to the scientific community through open-source research, code, and collaborative projects that aim to unravel the complexities of cancer biology.
+Our lab combines expertise in **hihg-throughput multi-omics techniologies, bioinformatics, data science**, and **machine learning** to analyse and interpret large-scale cancer datasets. We are committed to contributing to the scientific community through open-source research, code, and collaborative projects that aim to unravel the complexities of cancer biology.
 
 ## 🌟 Purpose of This Organisation
 
