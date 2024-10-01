@@ -1,18 +1,18 @@
-## 🎓 Welcome to the Quayle Lab GitHub Organization!
+## 🎓 Welcome to the Quayle Lab GitHub Organisation!
 
-The Quayle Lab is dedicated to cutting-edge research in **cancer bioinformatics**, with a focus on leveraging computational methods to understand and combat cancer. This organization serves as a centralised hub for all research projects conducted by members of the lab, including PhD students, postdoctoral researchers, and collaborators.
+The Quayle Lab is dedicated to cutting-edge research in **cancer bioinformatics**, with a focus on leveraging computational methods to understand and combat cancer. This organisation serves as a centralised hub for all research projects conducted by members of the lab, including PhD students, postdoctoral researchers, and collaborators.
 
 ## 🧬 About Us
 
-Our lab combines expertise in **hihg-throughput multi-omics techniologies, bioinformatics, data science**, and **machine learning** to analyse and interpret large-scale cancer datasets. We are committed to contributing to the scientific community through open-source research, code, and collaborative projects that aim to unravel the complexities of cancer biology.
+Our lab combines expertise in **high-throughput multi-omics techniologies, bioinformatics, data science**, and **machine learning** to analyse and interpret large-scale cancer datasets. We are committed to contributing to the scientific community through open-source research, code, and collaborative projects that aim to unravel the complexities of cancer biology.
 
 ## 🌟 Purpose of This Organisation
 
-The primary goals of this GitHub organisation are:
+The main goals of this GitHub organisation are:
 
-- **Centralising Research**: Provide a common platform for all lab members to share and manage their research code, data, and findings.
+- **Centralising Research**: Provide a common platform for all lab members to share and manage their research code.
 - **Collaboration**: Encourage collaboration among lab members, as well as with external collaborators and the broader scientific community.
-- **Transparency & Reproducibility**: Promote transparent, reproducible research by sharing code, data, and documentation in an open-access format.
+- **Transparency & Reproducibility**: Promote transparent, reproducible research by sharing code and documentation in an open-access format.
 
 ## 📂 Repository Structure
 
@@ -27,9 +27,9 @@ Each repository within this organisation represents a **distinct project** withi
 If you are a member of the Quayle Lab, please adhere to the following guidelines when working within this GitHub organisation:
 
 ### 1. Creating a New Repository
-- Each project should have its **own repository**. Use a consistent naming format: `project-title_studentname` (e.g., `tumor-genomics_janedoe`).
-- Include a README file in your repository that provides:
-  - An overview of your project
+- Each project should have its **own repository**. Use a consistent naming format: `date(ISO8601)_project_title_studentname` (e.g., `2023_12_30_tumour_genomics_janedoe`).
+- Include a README file in your repository that provides an overivew of:
+  - Project background
   - Objectives
   - Methodology
   - How to use/replicate your analyses
@@ -41,7 +41,7 @@ If you are a member of the Quayle Lab, please adhere to the following guidelines
 
 ### 3. Documentation & Reproducibility
 - Provide clear, detailed documentation for your code, including comments, usage instructions, and any necessary dependencies.
-- Use Jupyter Notebooks, RMarkdown, or similar tools to create reproducible workflows when possible.
+- Use RMarkdown, Jupyter Notebooks, or similar tools to create reproducible workflows when possible.
 - Store data responsibly, ensuring that sensitive or large datasets are not included in the repository. Instead, provide instructions on how to access or download them.
 
 ### 4. Collaboration & Contribution
